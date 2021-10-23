@@ -26,7 +26,7 @@ class Customers{
 
 }
 var c=new Customers("Shrikant","Padhy");
-console.log(c.firstnam());
-console.log(c.lastnam());
+console.log(c.firstnam);
+console.log(c.lastnam);
 
 
